@@ -1,0 +1,253 @@
+.fashionnav{
+    display: flex;
+    
+    background-color: black;
+    padding-left: 50px;
+    height: 50px;
+    
+}
+.fashion{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    padding-top: 10px;
+}
+.search{
+    height: 25px;
+    width: 180px;
+    /* border-radius: 5px; */
+    margin-top: 8px;
+    margin-left: 20px;
+    border: 1px solid white;
+}
+.searchicon{
+    width: 30px;
+    height: 22px;
+    color: white;
+    padding-top: 5px;
+    border: 1px solid white;
+    margin-top: 8px;
+    /* border-radius:5px ; */
+    border-left: none;
+    
+
+
+}
+.srch{
+    padding-right: 20px;
+}
+.home{
+    display: flex;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 200px;
+    gap: 20px;
+    border: 2px;
+    color: white;
+    padding-top: 10px;
+}
+.b{
+    border-right: 2px solid white;
+    padding-right: 30px;
+    height: 25px;
+}
+.cart{
+    display: flex;
+    padding-left: 35px;
+    gap: 5px;
+    border: 2px solid white;
+    margin-left: 300px;
+    border-radius: 5px;
+    height: 35px;
+    margin-top: 8px;
+
+}
+.cartimg{
+    width: 40px;
+    
+}
+.cartbutton{
+    color: white;
+    background-color: black;
+    padding-top: 10px;
+    border:none
+}
+.spring{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+.sp{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.style{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 20px;
+}
+.image1{
+    background-color: black;
+    padding-top: 50px;
+    display: flex;
+    gap: 30px;
+    padding-left: 400px;
+}
+.m1{
+    height: 200px;
+
+}
+.m2{
+    width: 250px;
+
+}
+.m3{
+    height: 200px;
+
+}
+.button{
+    background-color: black;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    
+
+}
+.shopnow{
+    width: 250px;
+    height: 40px;
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.fp{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.image2{
+    display: flex;
+    gap: 100px;
+    padding-left: 450px;
+}
+.m{
+    width: 300px;
+    height: 250px;
+}
+.text{
+    display: flex;
+    padding-left: 449px;
+    gap: 100px;
+    
+    
+}
+.red{
+    border: 1px solid lightgrey;
+    text-align: center;
+    padding-top: 30px;
+    width: 300px;
+
+}
+.blue{
+     border: 1px solid lightgrey;
+     text-align: center;
+     padding-top: 30px;
+     width: 300px;
+
+}
+.main{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding-left: 100px;
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    
+}
+.sub{
+    display: flex;
+    padding-left: 300px;
+    gap: 10px;
+    padding-top: 50px;
+}
+.do{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding-bottom: 10px;
+
+}
+.d{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.email{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+
+}
+.subscribe{
+    width: 150px;
+    height: 35px;
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.dress{
+    display: flex;
+    gap: 70px;
+    padding-left: 180px;
+    padding-top: 30px;
+    
+}
+.first{
+    width: 500px;
+    height: 600px;
+    border: 1px solid lightgrey;
+}
+.all{
+    width: 250px;
+    height: 250px;
+    border: 1px solid lightgrey;
+
+}
+.price{
+    text-align: center;
+    border: 1px solid lightgrey;
+    margin-bottom: 20px;
+    border-top:none ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.aboutus{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 30px;
+}
+.ab{
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+    padding-bottom: 20px;
+}
+.logo{
+    display: flex;
+    background-color: black;
+    color: white;
+    gap: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 80px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+
